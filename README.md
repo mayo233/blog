@@ -1,4 +1,4 @@
-# blog執筆のログ　ここではhatena blogで執筆したURLを紹介する
+# blog執筆のログ　ここではhatena blogで執筆した記事(URL)を紹介する
 <br>
 
 ## 日付 タイトル URL
