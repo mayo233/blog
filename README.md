@@ -18,3 +18,5 @@
 2021年 9/4 波動方程式について https://cmadoka22.hatenablog.com/entry/2021/09/04/085724?_ga=2.75932048.440693455.1630625692-702024389.1629359936
 <br><br>
 2021年 9/5 スネルの法則と全反射について https://cmadoka22.hatenablog.com/entry/2021/09/05/064432?_ga=2.8260663.440693455.1630625692-702024389.1629359936
+<br><br>
+2021年 9/6 slam入門 1.3章の解説 https://blog.hatena.ne.jp/cmadoka22/cmadoka22.hatenablog.com/edit?entry=26006613805480805
