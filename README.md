@@ -22,3 +22,5 @@
 2021年 9/6 slam入門 1.3章の解説 https://blog.hatena.ne.jp/cmadoka22/cmadoka22.hatenablog.com/edit?entry=26006613805480805
 <br><br>
 2021年 9/7 移動ロボットのナビゲーション https://cmadoka22.hatenablog.com/entry/2021/09/07/095702?_ga=2.196600046.350203971.1630919499-702024389.1629359936
+<br><br>
+2021年 9/7 国際会議のチュートリアルに初参加 https://cmadoka22.hatenablog.com/entry/2021/09/07/175228?_ga=2.168240611.350203971.1630919499-702024389.1629359936
